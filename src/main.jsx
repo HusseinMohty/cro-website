@@ -175,7 +175,7 @@ function App() {
         <div className="photoGrid">
           <div>Field Visit Photo</div>
           <div>Training Photo</div>
-            <img src="/photos/cro logo.PNG.jpg" alt="Rehabilitation" />
+            <img src="/photos/cro.jpg" alt="Rehabilitation" />
         </div>
       </section>
 
