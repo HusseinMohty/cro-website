@@ -43,8 +43,8 @@ function App() {
         <a className="brand" href="#home">
           <span className="brandMark"><HeartHandshake size={24} /></span>
           <span>
-            <strong>CRO Initiative</strong>
-            <small>Community Reconstruction Organization</small>
+            <strong>CRO Relief</strong>
+            <small>Community rehabilitation Organization</small>
           </span>
         </a>
 
