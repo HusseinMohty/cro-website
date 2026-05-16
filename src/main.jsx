@@ -198,8 +198,8 @@ function App() {
       </section>
 
       <footer>
-        <span>© {new Date().getFullYear()} CRO Initiative</span>
-        <span>Community Reconstruction Organization</span>
+        <span>© {new Date().getFullYear()} CRO Relief</span>
+        <span>Community Rehabilitation Organization</span>
       </footer>
     </main>
   )
