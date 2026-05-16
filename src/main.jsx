@@ -190,7 +190,7 @@ function App() {
         </div>
 
         <div className="contactCard">
-          <div><Mail /> contact@cro-initiative.org</div>
+          <div><Mail /> contact@crorelief.org</div>
           <div><Phone /> +961 71721971</div>
           <div><MapPin /> Lebanon –Saida, Beirut & Mount Lebanon, and accessible areas</div>
           <a className="primaryBtn full" href="mailto:contact@cro-initiative.org">Send Email</a>
