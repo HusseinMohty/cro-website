@@ -36,7 +36,7 @@ const impact = [
   ['3', 'Priority response sectors']
 ]
 
-function App() {
+export default function MainWebsite() {
   return (
     <main>
       <header className="nav">
