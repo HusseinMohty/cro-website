@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom/client'
 import './styles.css'
 
 //import MainWebsite from './MainWebsite'
- import Maintenance from './Maintenance'
+import Maintenance from './Maintenance'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <MainWebsite />
+    <Maintenance />
   </React.StrictMode>
 )
