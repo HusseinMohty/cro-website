@@ -84,7 +84,7 @@ export default function MainWebsite()  {
             Supporting IDP-hosting schools, shelters, and safer accessible areas with urgent technical interventions.
           </p>
           <ul>
-            <li><ClipboardCheck /> Needs Assessment & Referral Services </li>
+            <li><ClipboardCheck /> Needs Assessment and Referral Services </li>
             <li><ClipboardCheck /> Shelter and sanitation repairs</li>
             <li><ClipboardCheck /> Water tanks, sewage, and piping</li>
             <li><ClipboardCheck /> Electrical safety and emergency lighting</li>
@@ -103,7 +103,7 @@ export default function MainWebsite()  {
             engineers, municipalities, local actors, and community representatives to respond to urgent needs.
           </p>
           <p>
-            Our work focuses on field assessment, technical planning, stakeholder coordination, transparent selection,
+            Our work focuses on field assessment, referrals, technical planning, stakeholder coordination, transparent selection,
             and rapid implementation support for vulnerable communities.
           </p>
         </div>
