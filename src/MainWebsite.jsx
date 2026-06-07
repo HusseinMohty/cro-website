@@ -175,7 +175,8 @@ export default function MainWebsite()  {
         <div className="photoGrid">
           <div>Field Visit Photo</div>
           <div>Training Photo</div>
-            <img src="/photos/cro logo.PNG" alt="cro" />
+           <div>Our Mission</div>
+            //<img src="/photos/cro logo.PNG" alt="cro" />
         </div>
       </section>
 
