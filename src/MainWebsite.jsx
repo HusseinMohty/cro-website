@@ -176,7 +176,7 @@ export default function MainWebsite()  {
           <div>Field Visit Photo</div>
           <div>Training Photo</div>
            <div>Our Mission</div>
-            //<img src="/photos/cro logo.PNG" alt="cro" />
+            
         </div>
       </section>
 
