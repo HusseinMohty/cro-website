@@ -84,10 +84,10 @@ export default function MainWebsite()  {
             Supporting IDP-hosting schools, shelters, and safer accessible areas with urgent technical interventions.
           </p>
           <ul>
+            <li><ClipboardCheck /> Needs Assessment & Referral Services </li>
             <li><ClipboardCheck /> Shelter and sanitation repairs</li>
             <li><ClipboardCheck /> Water tanks, sewage, and piping</li>
             <li><ClipboardCheck /> Electrical safety and emergency lighting</li>
-            <li><ClipboardCheck /> First aid and firefighting preparedness</li>
           </ul>
         </div>
       </section>
