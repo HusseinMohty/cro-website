@@ -7,6 +7,11 @@ import {
 import './styles.css'
 
 const projects = [
+   {
+    icon: <ClipboardCheck />,
+    title: 'Needs Assessment & Referral Services',
+    text: 'Assessing humanitarian needs, mapping available services, and facilitating referrals to protection, health, shelter, WASH, and social support providers.'
+  },
   {
     icon: <Home />,
     title: 'Shelter Rehabilitation',
@@ -18,15 +23,11 @@ const projects = [
     text: 'Sanitation repair, water tanks, sewage systems, pipelines, solar water heating connections, and basic infrastructure support.'
   },
   {
-    icon: <Flame />,
-    title: 'First Responder Training',
-    text: 'Training of Trainers in firefighting and first aid to build community-based emergency response capacity.'
-  },
-  {
     icon: <ShieldCheck />,
     title: 'Protection & Dignity',
     text: 'Internal partitions, emergency lighting, safer electrical systems, privacy support, and dignity-focused improvements.'
   }
+   
 ]
 
 const impact = [
