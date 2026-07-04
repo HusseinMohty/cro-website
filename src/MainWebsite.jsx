@@ -192,7 +192,7 @@ export default function MainWebsite()  {
         </div>
 
         <div className="contactCard">
-          <div><Mail /> contact@crorelief.org</div>
+          <div><Mail /> lebanon@crorelief.org</div>
           <div><Phone /> +961 03123456</div>
           <div><MapPin /> Lebanon South, Nabatieh, Beirut & Mount Lebanon, Bekaa, and North Governorates</div>
           <a className="primaryBtn full" href="mailto:contact@crorelief.org">Send Email</a>
