@@ -134,7 +134,7 @@ export default function MainWebsite()  {
           <p className="lead">
             Following escalation and large-scale displacement, many families are staying in public schools,
             collective shelters, and residential buildings in relatively safer areas. CRO can coordinate and
-            implement flexible interventions in Saida City, Mount Lebanon shelters and schools, and other
+            implement flexible interventions in South Lebanon, Mount Lebanon shelters and schools, and other
             accessible locations in coordination with designated authorities.
           </p>
 
@@ -194,7 +194,7 @@ export default function MainWebsite()  {
         <div className="contactCard">
           <div><Mail /> contact@crorelief.org</div>
           <div><Phone /> +961 03123456</div>
-          <div><MapPin /> Lebanon –Saida, Beirut & Mount Lebanon, and accessible areas</div>
+          <div><MapPin /> Lebanon South, Nabatieh, Beirut & Mount Lebanon, Bekaa, and North Governorates</div>
           <a className="primaryBtn full" href="mailto:contact@crorelief.org">Send Email</a>
         </div>
       </section>
