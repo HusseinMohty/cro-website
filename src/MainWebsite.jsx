@@ -45,7 +45,7 @@ export default function MainWebsite()  {
           <span className="brandMark"><HeartHandshake size={24} /></span>
           <span>
             <strong>CRO Initiative</strong>
-            <small>Community Reconstruction Organization</small>
+            <small>Community Rehabilitation Organization</small>
           </span>
         </a>
 
@@ -65,7 +65,7 @@ export default function MainWebsite()  {
         <div className="heroContent">
           <div className="pill">
             <HeartHandshake size={16} />
-            Youth-led humanitarian and reconstruction initiative
+            Youth-led humanitarian and rehabilitation initiative
           </div>
           <h1>Rebuilding communities with dignity, safety, and resilience.</h1>
           <p>
@@ -99,7 +99,7 @@ export default function MainWebsite()  {
         </div>
         <div className="textBlock">
           <p>
-            Community Reconstruction Organization (CRO) is a civil society initiative working with volunteers,
+            Community Rehabilitation Organization (CRO) is a civil society initiative working with volunteers,
             engineers, municipalities, local actors, and community representatives to respond to urgent needs.
           </p>
           <p>
@@ -201,7 +201,7 @@ export default function MainWebsite()  {
 
       <footer>
         <span>© {new Date().getFullYear()} CRO Initiative</span>
-        <span>Community Reconstruction Organization</span>
+        <span>Community Rehabilitation Organization</span>
       </footer>
     </main>
   )
